@@ -7,7 +7,8 @@ public class Amazon_Product_Detail_Page {
     public static void detailOfProduct(){
         String product="Peace";
         String product2="Peace2";
-        String product3="Peace3";
+        String product3="bbbb";
         System.out.println(product);
+        String product4="Peace3";
     }
 }
