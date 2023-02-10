@@ -6,6 +6,8 @@ public class Amazon_Product_Detail_Page {
     }
     public static void detailOfProduct(){
         String product="Peace";
+        String product2="Peace2";
+        String product3="Peace3";
         System.out.println(product);
     }
 }
