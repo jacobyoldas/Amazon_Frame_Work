@@ -10,5 +10,6 @@ public class Amazon_Product_Detail_Page {
         String product3="bbbb";
         System.out.println(product);
         String product4="Peace3";
+        String product5="Peace5";
     }
 }
