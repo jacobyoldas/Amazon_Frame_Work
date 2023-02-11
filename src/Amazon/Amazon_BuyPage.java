@@ -1,6 +1,6 @@
 package Amazon;
 
-import static Amazon.Amazon_CheckoutPage.recommendedInfo;
+
 import static Amazon.Amazon_CheckoutPage.singleProductInfo;
 
 public class Amazon_BuyPage { // Purchase my products, so all I need to call the methods name
@@ -17,11 +17,11 @@ public class Amazon_BuyPage { // Purchase my products, so all I need to call the
 
     singleProductInfo();
 
-    // I want to call a non-static method?
+//     I want to call a non-static method?
 
-//    Amazon_CheckoutPage purchase = new Amazon_CheckoutPage();
-//
-//    purchase.productsInfo();
+    Amazon_CheckoutPage purchase = new Amazon_CheckoutPage();
+
+    purchase.productsInfo();
 
 
   }
