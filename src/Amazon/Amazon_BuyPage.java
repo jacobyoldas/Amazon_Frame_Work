@@ -12,7 +12,6 @@ public class Amazon_BuyPage { // Purchase my products, so all I need to call the
    *
    */
 
-
   public static void main(String[] args) {
 
     singleProductInfo();
@@ -22,15 +21,6 @@ public class Amazon_BuyPage { // Purchase my products, so all I need to call the
     Amazon_CheckoutPage purchase = new Amazon_CheckoutPage();
 
     purchase.productsInfo();
-    purchase.productsInfo();
-    purchase.productsInfo();
-    purchase.productsInfo();
-
-
 
   }
-
-
-
-
 }
